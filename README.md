@@ -3,10 +3,10 @@
 A Python-based web scraper that collects discounted game data from the **Steam store** and saves it as a CSV file for analysis.  
 
 ## Features  
-✅ Scrapes discounted games from multiple Steam store pages  
-✅ Extracts game details (title, rating, reviews, discount, price, release date, platforms)  
-✅ Saves data as a structured **CSV file**  
-✅ Works in **Google Colab**  
+- Scrapes discounted games from multiple Steam store pages  
+- Extracts game details (title, rating, reviews, discount, price, release date, platforms)  
+- Saves data as a structured **CSV file**  
+- Works in **Google Colab**  
 
 ## Requirements  
 - Python 3.x  
